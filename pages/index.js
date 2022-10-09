@@ -95,7 +95,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2018</BioYear>
-                        Successfully completed my 6th year at Hamilton Grammar high school and achiieved multiple A's and B's at higher level.
+                        Successfully completed my 6th year at Hamilton Grammar high school and achiieved multiple A’s and B’s at higher level.
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
