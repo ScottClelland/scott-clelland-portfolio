@@ -24,7 +24,7 @@ const Work = () => {
                         <span>JavaScript, HTML, PHP</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/calc.png" alt="CalcHome" />
+                <WorkImage src="/images/works/calc.PNG" alt="CalcHome" />
             </Container>
         </Layout>
     )

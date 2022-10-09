@@ -24,10 +24,10 @@ const Work = () => {
                         <span>JavaScript, HTML, PHP</span>
                     </ListItem>
                 </List>
-                <WorkImage src="/images/works/art.png" alt="ArtHome" />
-                <WorkImage src="/images/works/listing.png" alt="ArtListing" />
-                <WorkImage src="/images/works/order.png" alt="ArtOrder" />
-                <WorkImage src="/images/works/appointment.png" alt="ArtAppoint" />
+                <WorkImage src="/images/works/art.PNG" alt="ArtHome" />
+                <WorkImage src="/images/works/listing.PNG" alt="ArtListing" />
+                <WorkImage src="/images/works/order.PNG" alt="ArtOrder" />
+                <WorkImage src="/images/works/appointment.PNG" alt="ArtAppoint" />
             </Container>
         </Layout>
     )
