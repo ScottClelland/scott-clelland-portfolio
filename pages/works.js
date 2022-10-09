@@ -1,9 +1,6 @@
 import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react';
 import Section from '../components/section';
 import { WorkGridItem } from '../components/grid-item';
-import diss from '../public/images/works/diss.png'
-import art from '../public/images/works/art.png'
-import calc from '../public/images/works/calc.png'
 import Layout from '../components/layouts/article'
 
 const Works = () => {

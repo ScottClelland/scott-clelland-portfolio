@@ -3,9 +3,6 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
-import UnmuteThumbnail from '../public/images/contents/Unmute-Thumbnail.png'
-import AfaanThumbnail from '../public/images/contents/Afaan-Thumbnail.png'
-
 const Posts = () => (
     <Layout title="Posts">
         <Container>

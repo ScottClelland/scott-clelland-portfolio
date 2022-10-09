@@ -26,8 +26,6 @@ import {
     IoLogoLinkedin,
     IoLogoTiktok
 } from 'react-icons/io5'
-import thumbYouTube from '../public/images/links/youtube.jpg'
-import thumbTwitch from '../public/images/links/twitch.jpg'
 
 const Page = () => {
     return (
