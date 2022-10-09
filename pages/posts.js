@@ -16,12 +16,12 @@ const Posts = () => (
                 <SimpleGrid columns={[1,2,2]} gap={6}>
                     <GridItem 
                         title="Twitch Highlights: I forgot to mute myself in Among Us..." 
-                        thumbnail={UnmuteThumbnail} 
+                        thumbnail={"/images/contents/Unmute-Thumbnail.png"} 
                         href="https://www.youtube.com/watch?v=pVRmvhUI-4M&t=2s"
                     />
                     <GridItem 
                         title="Twitch Highlights: Warzone Funny Moments - Playing with the World's Best Teammate" 
-                        thumbnail={AfaanThumbnail} 
+                        thumbnail={"/images/contents/Afaan-Thumbnail.png"} 
                         href="https://www.youtube.com/watch?v=FWL9owhN4YY"
                     />
                 </SimpleGrid>

@@ -188,14 +188,14 @@ const Page = () => {
                         <GridItem 
                             href="https://www.youtube.com/channel/UChZwflDZykuT646H7LTwoHA" 
                             title="My Youtube" 
-                            thumbnail={thumbYouTube}
+                            thumbnail={"/images/links/youtube.jpg"}
                         >
                             My Youtube Channel
                         </GridItem>
                         <GridItem 
                             href="https://www.twitch.tv/clellandinho" 
                             title="My Twitch" 
-                            thumbnail={thumbTwitch}
+                            thumbnail={"/images/links/twitch.jpg"}
                         >
                             My Twitch Channel
                         </GridItem>
