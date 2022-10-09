@@ -3,6 +3,9 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
+import UnmuteThumbnail from '../public/images/contents/Unmute-Thumbnail.png'
+import AfaanThumbnail from '../public/images/contents/Afaan-Thumbnail.png'
+
 const Posts = () => (
     <Layout title="Posts">
         <Container>
@@ -13,12 +16,12 @@ const Posts = () => (
                 <SimpleGrid columns={[1,2,2]} gap={6}>
                     <GridItem 
                         title="Twitch Highlights: I forgot to mute myself in Among Us..." 
-                        thumbnail={"/images/contents/Unmute-Thumbnail.png"} 
+                        thumbnail={UnmuteThumbnail} 
                         href="https://www.youtube.com/watch?v=pVRmvhUI-4M&t=2s"
                     />
                     <GridItem 
                         title="Twitch Highlights: Warzone Funny Moments - Playing with the World's Best Teammate" 
-                        thumbnail={"/images/contents/Afaan-Thumbnail.png"} 
+                        thumbnail={AfaanThumbnail} 
                         href="https://www.youtube.com/watch?v=FWL9owhN4YY"
                     />
                 </SimpleGrid>

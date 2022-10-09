@@ -35,6 +35,7 @@ const VoxelDog = () => {
     }, [renderer])
 
     let created = false
+    /* eslint-disable react-hooks/exhaustive-deps */
     
     useEffect(() => {
         if(!created) {

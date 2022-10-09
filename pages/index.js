@@ -26,6 +26,8 @@ import {
     IoLogoLinkedin,
     IoLogoTiktok
 } from 'react-icons/io5'
+import thumbYouTube from '../public/images/links/youtube.JPG'
+import thumbTwitch from '../public/images/links/twitch.JPG'
 
 const Page = () => {
     return (
@@ -186,14 +188,14 @@ const Page = () => {
                         <GridItem 
                             href="https://www.youtube.com/channel/UChZwflDZykuT646H7LTwoHA" 
                             title="My Youtube" 
-                            thumbnail={"/images/links/youtube.JPG"}
+                            thumbnail={thumbYouTube}
                         >
                             My Youtube Channel
                         </GridItem>
                         <GridItem 
                             href="https://www.twitch.tv/clellandinho" 
                             title="My Twitch" 
-                            thumbnail={"/images/links/twitch.JPG"}
+                            thumbnail={thumbTwitch}
                         >
                             My Twitch Channel
                         </GridItem>
