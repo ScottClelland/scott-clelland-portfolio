@@ -4,7 +4,7 @@ import Section from '../components/section'
 import { GridItem } from '../components/grid-item'
 
 import mernthumb from '../public/images/contents/mern-thumb.png'
-import learnthumb from '../public/images/contents/learn-thumb.png'
+import learnthumb from '../public/images/contents/learn-thumb.PNG'
 
 const Posts = () => (
     <Layout title="Posts">
